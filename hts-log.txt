@@ -1,0 +1,14 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 31 Mar 2024 08:04:43 at https://sadbuggie.vip/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://sadbuggie.vip/ -O1 "C:\My Web Sites\solana" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+08:05:15	Error: 	"Not Found" (404) at link https://sadbuggie.vip/ttlink (from https://sadbuggie.vip/)
+08:05:15	Error: 	"Not Found" (404) at link https://sadbuggie.vip/chartlink (from https://sadbuggie.vip/)
+08:05:15	Error: 	"Not Found" (404) at link https://sadbuggie.vip/buylink (from https://sadbuggie.vip/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 33 seconds : 54 links scanned, 50 files written (13907629 bytes overall), 50 files updated [12808163 bytes received at 388126 bytes/sec], 1532760 bytes transferred using HTTP compression in 10 files, ratio 25%, 6.0 requests per connection
+(3 errors, 0 warnings, 0 messages)
