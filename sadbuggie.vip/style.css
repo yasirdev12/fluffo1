@@ -8814,6 +8814,7 @@ img {
         height: 180px;
         border-bottom-width: 0;
         bottom: 3px;
+        margin-left:100px;
     }
 
     .hp-but-icon {
