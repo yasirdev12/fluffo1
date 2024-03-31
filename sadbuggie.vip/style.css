@@ -3578,8 +3578,8 @@ img {
 .hp-but-image-state-1 {
     height: 200px;
     object-fit: fill;
-    padding-top: 5px;
-    display: block;
+    display: flex;
+    align-items: center;
     position: absolute;
     bottom: 3px;
     left: auto;
