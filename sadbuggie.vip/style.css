@@ -2058,7 +2058,7 @@ textarea.w-select {
     -webkit-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    padding: 18px;
+    padding: 10px;
     font-size: 24px;
     display: none;
     position: relative;
